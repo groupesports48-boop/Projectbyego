@@ -1,0 +1,6 @@
+{
+  "name": "DESTROYED eSports Management",
+  "description": "Premium Personal Free Fire Esports Management Platform featuring match planning, WhatsApp group integration, OCR screenshot match result extraction, and advanced performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

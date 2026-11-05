@@ -1,0 +1,98 @@
+{
+  "users": {
+    "usr_1980ea09-2361-4bdb-9150-ad6e11bca486": {
+      "id": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+      "fullName": "Destroyer Alex",
+      "email": "businessesports1@gmail.com",
+      "passwordHash": "e263bdc1d8cb9e3057a4ee137b3a4a27dff856bcaaa7ef627b26f6dd23321ba5",
+      "ign": "亗 DESTROYER 亗",
+      "bio": "IGL for DESTROYED Esports. Free Fire National Championship contender.",
+      "role": "IGL",
+      "avatarUrl": "",
+      "bannerUrl": "",
+      "token": "45607efa0bb2169459ecec13599180824ba89de9ee973f674bf7d2d4f71d5490",
+      "createdAt": "2026-11-04T18:28:52.447Z"
+    }
+  },
+  "matches": {
+    "usr_1980ea09-2361-4bdb-9150-ad6e11bca486": [
+      {
+        "id": "mat_7b656201-8c0e-4bf1-b92c-da56556bf105",
+        "userId": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+        "name": "Destroyers vs Soul Scrim",
+        "matchDate": "2026-11-04",
+        "matchTime": "23:59",
+        "matchType": "Squad",
+        "isCompleted": false,
+        "createdAt": "2026-11-04T18:29:53.369Z"
+      }
+    ]
+  },
+  "groups": {
+    "usr_1980ea09-2361-4bdb-9150-ad6e11bca486": [
+      {
+        "id": "grp_be2fb608-12d5-498f-837d-812b0f22b77e",
+        "userId": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+        "name": "Elite Scrims Hub Tier 1",
+        "url": "https://chat.whatsapp.com/FFScrimsT1Hub",
+        "note": "Slot 4 reserved. Room details shared 15m prior",
+        "createdAt": "2026-11-04T18:29:41.319Z"
+      }
+    ]
+  },
+  "results": {
+    "usr_1980ea09-2361-4bdb-9150-ad6e11bca486": [
+      {
+        "id": "res_86e9ecf9-ab9e-43f3-983f-76d595a9debb",
+        "userId": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+        "matchDate": "2026-11-05",
+        "matchTime": "00:01",
+        "matchType": "Duo",
+        "result": "LOSS",
+        "placement": 2,
+        "kills": 0,
+        "notes": "Pochinok early trade",
+        "createdAt": "2026-11-04T18:31:21.950Z"
+      },
+      {
+        "id": "res_20dad6ed-069b-454c-b45a-8500a4c544dc",
+        "userId": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+        "matchDate": "2026-11-05",
+        "matchTime": "00:01",
+        "matchType": "Squad",
+        "result": "WIN",
+        "placement": 1,
+        "kills": 0,
+        "notes": "Grand Finals Round 1 - Booyah with 12 kills",
+        "createdAt": "2026-11-04T18:31:08.876Z",
+        "entryFee": 100,
+        "prizeMoney": 600,
+        "extraExpenses": 50,
+        "expenseNotes": "Slot pass and sub bonus"
+      }
+    ]
+  },
+  "notifications": {
+    "usr_1980ea09-2361-4bdb-9150-ad6e11bca486": [
+      {
+        "id": "notif_12a003ac-ae69-463e-84b6-0132db497497",
+        "userId": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+        "title": "Match Scheduled",
+        "message": "Destroyers vs Soul Scrim scheduled for 2026-11-04 at 23:59 IST.",
+        "type": "schedule",
+        "timestamp": "2026-11-04T18:29:53.369Z",
+        "read": false,
+        "matchId": "mat_7b656201-8c0e-4bf1-b92c-da56556bf105"
+      },
+      {
+        "id": "notif_3ef4734f-e20d-4d66-b84a-b27b22bf6f59",
+        "userId": "usr_1980ea09-2361-4bdb-9150-ad6e11bca486",
+        "title": "Welcome to DESTROYED eSports",
+        "message": "Your personal Free Fire esports management dashboard is ready. Clean slate initialized.",
+        "type": "system",
+        "timestamp": "2026-11-04T18:28:52.447Z",
+        "read": false
+      }
+    ]
+  }
+}
